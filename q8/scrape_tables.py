@@ -25,5 +25,5 @@ def main():
     total = int(round(total))
     print(f"TOTAL_SUM={total}")
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     main()
