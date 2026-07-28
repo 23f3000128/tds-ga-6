@@ -24,4 +24,4 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run scraper for 23f3000128@ds.study.iitm.ac.in
-        run: python scrape_tables.py
+        run: python q8/scrape_tables.py
